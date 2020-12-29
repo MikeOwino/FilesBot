@@ -98,4 +98,5 @@ function get_link($bot, $chat_id, $message_id) {
         "text" => $required_url,
         "disable_web_page_preview" => True
     ));
+  
 }
